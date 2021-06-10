@@ -34,7 +34,7 @@ function multiply(a, b) { //eslint-disable-line
   let multiply = a*b ;
   let str6 ='The product of '+a+' and ' +b+ ' is '+ multiply + '.';
    return [multiply, str6]
-  } 
+  }   
 
 // Here is the test for multiply(); uncomment it to run it
 testMultiply(5,9);
